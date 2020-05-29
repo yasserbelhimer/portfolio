@@ -1,0 +1,131 @@
+{
+	"landing": {
+		"firstName": "Yasser ",
+		"lastName": "BELHIMER",
+		"address":"City 100 Logts Dekakna-16049 DOUERA",
+		"phoneNumber": "+213791848188",
+		"bio": "Computer Science student and full stack developer",
+    	"email": "yasserbelhimer@gmail.com",
+    	"linkedin": "https://www.linkedin.com/in/yasser-belhimer-66735b124/",
+		"github": "https://github.com/yasserbelhimer",
+		"facebook": "https://www.facebook.com/romariz19"
+	},
+	"experience": [
+		{
+				"position": "Web Developer",
+				"organization": "Company one",
+				"aboutWork": "Details about work here",
+				"fromDate": "Date of starting",
+				"toDate": "Ending Date"
+		},
+		{
+			"position": "App Developer",
+			"organization": "Company 2",
+			"aboutWork": "Details about work here",
+			"fromDate": "Date of starting",
+			"toDate": "ending date"
+		}
+	],
+	"education": [{
+			"university": "University Of Science And Technology Houari Boumediene",
+			"degree": "Licence",
+			"field": "Computer Science",
+			"gpa":"12.5",
+			"fromDate": "Sep 2016",
+			"toDate": "Jui 2020"
+		}
+	],
+	"skills": [{
+			"name": "C"
+		},
+		{
+			"name": "Linux"
+		},
+		{
+			"name": "Java "
+		},
+		{
+			"name": "Java EE"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Php"
+		},
+		{
+			"name": "Sql"
+		},
+		{
+			"name": "MySql"
+		},
+		{
+			"name": "JavaScript "
+		},
+		{
+			"name": "Jquery "
+		},
+		{
+			"name": "HTML "
+		},
+		{
+			"name": "React "
+		},
+		{
+			"name": "CSS "
+		},
+		{
+			"name": "Bootstrap"
+		},
+		{
+			"name": "Electron"
+		},
+		{
+			"name": "LaTex"
+		},
+		{
+			"name": "Git "
+		},
+		{
+			"name": "Github "
+		},
+		{
+			"name": "client/server administration"
+		},
+		{
+			"name": "routing and switching"
+		},
+		{
+			"name": "microsoft office excel"
+		},
+		{
+			"name": "microsoft office word"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a full stack developer, I enjoy most of my time being outdoors. I enjoy walk in the street , and swimming.",
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, and I spend a large amount of my free time exploring the latest technology advancements in the  development world and the intelligence artificial ."
+	},
+	"awards": [{
+			"awardDetail": "Git and GitHub"
+		},
+		{
+			"awardDetail": "Using Python to Interact with the Operating System"
+		},
+		{
+			"awardDetail": "Develop your website with PHP and MySQL"
+		},
+		{
+			"awardDetail": "Develop websites with Java EE"
+		},
+		{
+			"awardDetail": "JavaScript"
+		},
+		{
+			"awardDetail": "HTML Fundamentals"
+		},
+		{
+			"awardDetail": "WordPress"
+		}
+	]
+}
