@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yasserbelhimer/static/css/main.69eda509.chunk.css",
+    "main.js": "/yasserbelhimer/static/js/main.70633a2f.chunk.js",
+    "main.js.map": "/yasserbelhimer/static/js/main.70633a2f.chunk.js.map",
+    "runtime-main.js": "/yasserbelhimer/static/js/runtime-main.aa8a55c8.js",
+    "runtime-main.js.map": "/yasserbelhimer/static/js/runtime-main.aa8a55c8.js.map",
+    "static/js/2.82173e37.chunk.js": "/yasserbelhimer/static/js/2.82173e37.chunk.js",
+    "static/js/2.82173e37.chunk.js.map": "/yasserbelhimer/static/js/2.82173e37.chunk.js.map",
+    "index.html": "/yasserbelhimer/index.html",
+    "precache-manifest.0b32dda0fed76a620797a78daeaa361c.js": "/yasserbelhimer/precache-manifest.0b32dda0fed76a620797a78daeaa361c.js",
+    "service-worker.js": "/yasserbelhimer/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/yasserbelhimer/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.82173e37.chunk.js.LICENSE.txt": "/yasserbelhimer/static/js/2.82173e37.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/yasserbelhimer/static/media/profile.90d8539b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa8a55c8.js",
+    "static/js/2.82173e37.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.70633a2f.chunk.js"
+  ]
+}
