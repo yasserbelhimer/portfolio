@@ -25,9 +25,9 @@ class Sidebar extends Component {
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#about">About</a>
             </li>
-            {/*<li className="nav-item">
+            <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
-            </li>*/}
+            </li>
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#education">Education</a>
             </li>

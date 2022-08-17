@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faFacebook } from "@fortawesome/free-brands-svg-icons";
+import { faFile } from '@fortawesome/free-solid-svg-icons';
 
 class Landing extends Component {
   constructor(props) {
@@ -20,14 +21,17 @@ class Landing extends Component {
           </div>
           <p className="lead mb-5">{this.landingData.bio}</p>
           <div className="social-icons">
-            <a href={this.landingData.linkedin}>
-              <FontAwesomeIcon icon={faLinkedin} />
+            <a href={this.landingData.linkedin} target="_blank" title="Linkedin">
+              <FontAwesomeIcon icon={faLinkedin} size="lg"/>
             </a>
-            <a href={this.landingData.github}>
-              <FontAwesomeIcon icon={faGithub} />
+            <a href={this.landingData.github} target="_blank" title="github">
+              <FontAwesomeIcon icon={faGithub} size="lg"/>
             </a>
-            <a href={this.landingData.facebook}>
-              <FontAwesomeIcon icon={faFacebook} />
+            <a href={this.landingData.facebook} target="_blank" title="facebook">
+              <FontAwesomeIcon icon={faFacebook} size="lg"/>
+            </a>
+            <a href={this.landingData.resume} target="_blank" title="resume">
+              <FontAwesomeIcon icon={faFile} size="lg"/>
             </a>
           </div>
         </div>

@@ -4,102 +4,70 @@
 		"lastName": "BELHIMER",
 		"address":"City 100 Logts Dekakna-16049 DOUERA",
 		"phoneNumber": "+213791848188",
-		"bio": "Computer Science student and full stack developer",
+		"bio": "Software engineer",
     	"email": "yasserbelhimer@gmail.com",
     	"linkedin": "https://www.linkedin.com/in/yasser-belhimer-66735b124/",
 		"github": "https://github.com/yasserbelhimer",
-		"facebook": "https://www.facebook.com/romariz19"
+		"facebook": "https://www.facebook.com/romariz19",
+		"resume": "https://drive.google.com/file/d/1HZOvJLVyKkLa5WG4dX_R85eamSxHP71z/view?usp=sharing"
 	},
 	"experience": [
 		{
-				"position": "Web Developer",
-				"organization": "Company one",
-				"aboutWork": "Details about work here",
-				"fromDate": "Date of starting",
-				"toDate": "Ending Date"
+				"position": "Software team lead",
+				"organization": "FB-Technologies",
+				"aboutWork": "Participate in software architect & design and manage the team/project",
+				"fromDate": "Apr 2022",
+				"toDate": "Current"
 		},
 		{
-			"position": "App Developer",
-			"organization": "Company 2",
-			"aboutWork": "Details about work here",
-			"fromDate": "Date of starting",
-			"toDate": "ending date"
+			"position": "Web/mobile Developer",
+			"organization": "FB-Technologies",
+			"aboutWork": "Participate in software architect & design, Implement/Mantain web/mobile pages and Add new features",
+			"fromDate": "Sep 2020",
+			"toDate": "Apr 2022"
 		}
 	],
 	"education": [{
 			"university": "University Of Science And Technology Houari Boumediene",
-			"degree": "Licence",
+			"degree": "Master degree",
+			"field": "Software engineering",
+			"gpa":"13",
+			"fromDate": "Sep 2020",
+			"toDate": "Jun 2022"
+		},
+		{
+			"university": "University Of Science And Technology Houari Boumediene",
+			"degree": "Bachelier degree",
 			"field": "Computer Science",
 			"gpa":"12.5",
 			"fromDate": "Sep 2016",
 			"toDate": "Jui 2020"
 		}
 	],
-	"skills": [{
-			"name": "C"
+	"skills": [
+		{
+			"name": "Php/Laravel/Livewire"
 		},
 		{
-			"name": "Linux"
+			"name": "MERN stack"
 		},
 		{
-			"name": "Java "
+			"name": "Sql/MySql/Oracle"
 		},
 		{
-			"name": "Java EE"
+			"name": "JavaScript/Jquery"
 		},
 		{
-			"name": "Python"
+			"name": "Java/Java EE"
 		},
 		{
-			"name": "Php"
+			"name": "Python/Django"
 		},
 		{
-			"name": "Sql"
+			"name": "Agile scrum (Jira) "
 		},
 		{
-			"name": "MySql"
-		},
-		{
-			"name": "JavaScript "
-		},
-		{
-			"name": "Jquery "
-		},
-		{
-			"name": "HTML "
-		},
-		{
-			"name": "React "
-		},
-		{
-			"name": "CSS "
-		},
-		{
-			"name": "Bootstrap"
-		},
-		{
-			"name": "Electron"
-		},
-		{
-			"name": "LaTex"
-		},
-		{
-			"name": "Git "
-		},
-		{
-			"name": "Github "
-		},
-		{
-			"name": "client/server administration"
-		},
-		{
-			"name": "routing and switching"
-		},
-		{
-			"name": "microsoft office excel"
-		},
-		{
-			"name": "microsoft office word"
+			"name": "Git/Github "
 		}
 	],
 	"interests": {

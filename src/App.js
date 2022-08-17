@@ -27,9 +27,9 @@ class App extends Component {
         <Sidebar sidebarData={this.state.landingData} />
         <div className="container-fluid p-0">
           <Landing landingData={this.state.landingData} />
-          {/*<hr className="m-0" />
+          <hr className="m-0" />
           <Experience experience={this.state.experience} />
-          <hr className="m-0" />*/}
+          <hr className="m-0" />
           <Education education={this.state.education}/>
           <hr className="m-0" />
           <Skills skills={this.state.skills} />
